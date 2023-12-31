@@ -1,0 +1,58 @@
+nav , section{
+    border: 1px solid;
+}
+nav{
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: blueviolet;
+}
+section{
+    width: auto;
+    height: 100%;
+
+}
+iframe{
+    border: none;
+    height: 70%;
+
+}
+#main{
+    width: 70%;
+    height: 70%;
+
+}
+a{
+    display: block;
+    padding: 13px 30px;
+    border-bottom: 1px solid rebeccapurple;
+    font-size: 20px;
+    text-decoration: none;
+    color: royalblue;
+    transition: 2s;
+}
+a:hover{
+    background-color: royalblue;
+    color: blueviolet;
+
+
+}
+.enregi{
+    font-weight: bold;
+}
+label , span , input{
+    font-weight: bold;
+}
+legend{
+    font-weight: bold;
+    font-size: 22px;
+
+}
+fieldset{
+    width: 35%;
+
+}
+.f2{
+    width: 70%;
+
+}
