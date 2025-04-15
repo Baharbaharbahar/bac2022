@@ -1,0 +1,57 @@
+ 
+*
+{
+    margin: 10px;
+} 
+h1
+{
+    text-align: center;
+    color: peru;
+    font-weight: bolder;
+}
+main
+{
+    display: flex;
+    justify-content: space-between;
+    width: 90pc;
+    height: 700px;
+    float: right;
+}
+iframe
+{
+    background-color: purple;
+    width: 100%;
+    height: 100%;
+}
+section
+{
+    width: 50%;
+    float: right;
+    height: 700px;
+}
+nav 
+{
+    width: 45%;
+    height: 700px;
+    font-weight: bold;
+    line-height: 20px;
+    float: left;
+}
+a
+{
+    text-decoration: none;
+}
+ul li
+{
+    color: wheat;
+    font-size: 40px;
+    list-style: none;
+    text-align: center;
+    padding-top: 40px;
+}
+legend
+{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
